@@ -24,10 +24,10 @@ public class App {
             // Imprime as respostas do usuário
             System.out.println("Suas respostas foram:");
             for (int i = 0; i < 5; i++) {
-                System.out.println("Respostaaaa " + (i + 1) + ": " + respostas[i]);
+                System.out.println("Resposta " + (i + 1) + ": " + respostas[i]);
             }
         } else {
-            System.out.println("Ok, talvez na próxima vez!");
+            System.out.println("Ok, talvez na próxima vez! teste 2");
         }
 
         // Fecha o scanner
